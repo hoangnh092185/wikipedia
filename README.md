@@ -6,7 +6,7 @@
 
 ## _Description_
 
-_This is an imitation of a real Wikipedia page_
+_Using wikipedia main page as reference to create a web page using bootstrap functionality._
 
 ## Setup/Installation Requirements
 
